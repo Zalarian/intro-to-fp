@@ -55,3 +55,5 @@ Scott Wlachin, author of *Domain Modeling Made Functional* and the blog *F# For 
 ## Let's get started 
 
 Why don't you open [Program.fs](./Program.fs) to see what the most basic F# program looks like?
+
+[Next](../functionalBasics/readme.md)
