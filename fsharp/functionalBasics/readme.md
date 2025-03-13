@@ -146,7 +146,7 @@ This technique is especially useful for working with a computation that needs to
 
 ## Function Composition & Piping
 
-If there's two things every single language would be better off with, it's an Hindley-Milner style type system and piping. Piping, like with Unix pipes, is simply wiring up the output of function `a` to function `b`.
+If there's two things every single language would be better off with, it's an Hindley-Milner style type system and piping. Piping, like with Unix pipes, is simply wiring up the output of function `a` to the input of function `b`.
 
 <img src="./img/piped.png">
 
