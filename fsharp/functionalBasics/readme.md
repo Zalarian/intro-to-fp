@@ -160,7 +160,7 @@ This is how pipe and compose are defined. I think I like the short-hand operator
 
 <img src="./img/definitions.png">
 
-As you can see, the types are the same: `('a -> 'b) -> ( 'b -> 'c ) -> 'a -> 'c`. You can use the pretty interchangably and the only difference is when the argument is supplied.
+As you can see, the types are the same: `('a -> 'b) -> ( 'b -> 'c ) -> 'a -> 'c`. You can use them pretty interchangably and the only difference is when the argument is supplied.
 
 ## Conclusion
 
