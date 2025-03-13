@@ -26,7 +26,7 @@ Type systems, to me, are the biggest factor in deciding to choose a programming 
 - the types are assigned (and checked) at compile-time 
 - you can have two stuctures that have the same interface but if they are named differently there is a type error. 
 
-There's even a mathematical proof that a well-typed progam using the Hindley-Milner type system (the one F# uses) is sound.
+There's even a mathematical proof that a well-typed progam using the Hindley-Milner type system (the one F# uses) is [sound](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf) and "cannot go wrong" (read crash).
 
 #### What Does That Even Mean?
 
